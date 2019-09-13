@@ -15,7 +15,7 @@ The Wikipedia iOS Team has tagged new bugs (for Lambda School) so that you can f
 7. Read the [API Design Guidelines for Swift](https://swift.org/documentation/api-design-guidelines/)
 8. Find a "good first bug" that you'd like to work on the [bug backlog](https://phabricator.wikimedia.org/project/board/782/query/7vYTqNgpvqjh/)
 9. Tag yourself in their bug tracker and start working on a fix
-10. Create a Pull Request following these guidelines
+10. Create a Pull Request following these [process guidelines](https://github.com/wikimedia/wikipedia-ios/blob/develop/docs/process.md)
 11. Message an iOS Instructor to review your PR for feedback and to answer questions. @PaulSolt @Ben @Spencer @Andrew
 
 ## More Bugs
@@ -25,3 +25,6 @@ After you fix one bug and have it reviewed and accepted, you can try fixing a se
 Choose a bug from the [Bug Backlog list](https://phabricator.wikimedia.org/project/board/782/) (i.e.: not a "good first bug").
 
 Use the same workflow and reach out to an instructor if you get stuck. And if we can't figure it out, you can politely ask the iOS Wikipedia team for help.
+
+## Contact Wikipedia (IRC Chat)
+If you have any questions or comments, you can join the #wikimedia-mobile channel on the Freenode IRC server. We'll also gladly accept any [bug reports](https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?title=[BUG]&projects=wikipedia-ios-app-product-backlog,ios-app-bugs&description=%3D%3D%3D+How+many+times+were+you+able+to+reproduce+it?%0D%0A%0D%0A%3D%3D%3D+Steps+to+reproduce%0D%0A%23+%0D%0A%23+%0D%0A%23+%0D%0A%0D%0A%3D%3D%3D+Expected+results%0D%0A%0D%0A%3D%3D%3D+Actual+results%0D%0A%0D%0A%3D%3D%3D+Screenshots%0D%0A%0D%0A%3D%3D%3D+Environments+observed%0D%0A**App+version%3A+**+%0D%0A**OS+versions%3A**+%0D%0A**Device+model%3A**+%0D%0A**Device+language%3A**+%0D%0A%0D%0A%3D%3D%3D+Regression?+%0D%0A%0D%0A+Tag++task+with+%23Regression+%0A).
