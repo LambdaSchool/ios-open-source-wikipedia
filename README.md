@@ -10,7 +10,9 @@ The Wikipedia iOS Team has tagged new bugs (for Lambda School) so that you can f
 2. Clone the [Wikipedia iOS app on Github](http://github.com/wikimedia/wikipedia-ios)
 3. Read the entire readme for the Wikipedia iOS app 
 4. Read the [Contributing Guide](http://github.com/wikimedia/wikipedia-ios/blob/develop/CONTRIBUTING.md) for the Wikipedia iOS app
-5. Create a MediaWiki account on their bug tracker website (Wikipedia account)
+5. Create a [WikiTech account](https://wikitech.wikimedia.org/wiki/Help:Create_a_Wikimedia_developer_account) for their bug tracker website.
+    1. You can use a WikiTech account to contribute to server side projects (Gerrit not Github)
+    2. A MediaWiki account will limit you to only iOS on Github (may be easier to set up)
 6. Read the [Code Guidelines for Cocoa (Objective-C)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
 7. Read the [API Design Guidelines for Swift](https://swift.org/documentation/api-design-guidelines/)
 8. Find a "good first bug" that you'd like to work on the [bug backlog](https://phabricator.wikimedia.org/project/board/782/query/7vYTqNgpvqjh/)
